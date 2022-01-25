@@ -20,6 +20,9 @@ title('Data and Fitted Curve')
 xlabel('Vdd[V]')
 ylabel('tp_typical[ps]')
 
+disp('Kd Von alpha is ')
+disp(x)
+
 
 % x1=15.4470
 % x2=0.2372
